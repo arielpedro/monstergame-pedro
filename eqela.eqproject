@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MonsterGame_Pedro
+#
+
+projectname: MonsterGame_Pedro
+vendorid: com.pedro.mycompany
+mainmodule: com.pedro.mycompany.monstergamepedro
